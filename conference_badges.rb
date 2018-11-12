@@ -5,6 +5,8 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(names)
+  badge_maker_array = []
+  badge_maker_array.push(badge_maker(name))
   
 end
 
