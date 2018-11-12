@@ -14,7 +14,7 @@ end
 
 def assign_rooms(attendees)
   room_assignment = []
-  
+  attendees.each do
   
 end
 
